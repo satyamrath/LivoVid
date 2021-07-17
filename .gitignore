@@ -1,0 +1,5 @@
+node_modules/
+.history/
+config.env
+Storage/
+build/

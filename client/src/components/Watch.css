@@ -1,0 +1,10 @@
+.watch_videoContainer{
+    text-align: center;
+}
+
+.watch_videoPlayer{
+    margin: 40px auto;
+    max-width: 90vw;
+    background-color: #444;
+    max-height: 75vh;
+}
